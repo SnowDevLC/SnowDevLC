@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowdevlc&label=Profile%20views&color=0e75b6&style=flat" alt="snowdevlc" /> </p>
 
-- 🔭 I’m currently working on [Countries APP](https://countries-ashy-eight.vercel.app/)
+- 🔭 I’m currently working on SYSTEM ERP.
 
-- 🌱 I’m currently learning **React | Node.js | PostgreSQL**
+- 🌱 I’m currently learning **Next.js | TypeScript**
 
-- 👨‍💻 All of my projects are available at [portfolio.example](portfolio.example)
+- 👨‍💻 All of my projects are available at [lcdev.com.ar](lcdev.com.ar)
 
 - 📫 How to reach me **canalesluis9@gmail.com**
 
