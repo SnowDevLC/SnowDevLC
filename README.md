@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js | TypeScript**
 
-- 👨‍💻 All of my projects are available at <a href="https://lcdev.com.ar" target="__blank">lcdev.com.ar</a>
+- 👨‍💻 All of my projects are available at <a href="https://lcdev.com.ar" target="_blank">lcdev.com.ar</a>
 
 - 📫 How to reach me **canalesluis9@gmail.com**
 
